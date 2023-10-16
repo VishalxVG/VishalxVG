@@ -6,7 +6,7 @@ Hi I am Vishal Ghosh 😊
 - 🌱 I’m currently learning Flutter development and also interested in Machine Learning
 - 💀 I have a strong foundation in Data Structures and Algorithms and am specialized in Python, C, C++ languages.
 - 👯 I’m interested in collaborating on app development and machine learning projects
-- 🙋🏼‍♂️ How to reach me: 
+- 🙋🏼‍♂️ Other platforms: 
   - 📋 [LinkedIn](https://www.linkedin.com/in/vishal-ghosh-264564221/)
   - 💻 [LeetCode](https://leetcode.com/avatarvishal1551/)
   - 🛠️ [HackerRank](https://www.hackerrank.com/avatarvishal1551)
