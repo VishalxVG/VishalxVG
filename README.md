@@ -1,4 +1,4 @@
-Hi I am Vishal Ghosh 😊 
+Hi I am Vishal  😊 
 
 - 👨‍🎓 I'm a 20-year-old with a strong passion for coding and technology.
 - 🏢 I'm currently studying at SRM UNIVERSITY 
